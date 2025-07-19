@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Rezwanur Rahman Rana
-- 👀 I’m interested in Computing Systems, Programming, Internet Security and Data Mining
-- 🌱 I’m currently learning Python, Pandas
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rezwanur Rahman
+- 👀 I’m interested in Software Systems, Fullstack Development, IoT.
+- Intern@Meta
 
 <!---
 rezwan09/rezwan09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

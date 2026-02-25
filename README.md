@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rezwanur Rahman
-- 👀 I’m interested in Software Systems, Fullstack Development, IoT.
+- 👋 Hi, I am Rezwan
+- 👀 I’m interested in Distributed Systems and Edge Computing.
 - Intern@Meta
 
 <!---
